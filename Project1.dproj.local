@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/07/03 22:06:53.000.276,=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/15 00:25:16.000.915,=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/16 12:02:12.000.655,=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/18 22:21:37.000.291,=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/22 15:46:51.000.627,=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/22 15:46:57.000.031,=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/07 12:57:46.000.784,=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/08 14:24:07.000.806,=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/03 11:39:09.000.599,=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/04 20:55:25.000.869,=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/04 21:06:53.000.625,C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\createGUI\Unit1.fmx</Transaction>
+    <Transaction>2018/05/04 21:06:53.000.625,C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\createGUI\Unit1.pas</Transaction>
+    <Transaction>2018/05/04 21:06:54.000.840,C:\Users\Jose\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Jose\Documents\Embarcadero\Studio\Projects\createGUI\Project1.dproj</Transaction>
+    <Transaction>2018/05/05 08:43:41.000.470,C:\Users\Jose\Documents\Embarcadero\Studio\Projects\createGUI\Project1.dproj=C:\work\FHIRUICreate\Project1.dproj</Transaction>
+    <Transaction>2018/05/05 08:51:26.000.050,C:\Users\Jose\Documents\Embarcadero\Studio\Projects\createGUI\Unit1.fmx=C:\work\FHIRUICreate\Unit1.fmx</Transaction>
+    <Transaction>2018/05/05 08:51:26.000.050,C:\Users\Jose\Documents\Embarcadero\Studio\Projects\createGUI\Unit1.pas=C:\work\FHIRUICreate\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
